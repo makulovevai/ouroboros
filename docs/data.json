@@ -1,6 +1,6 @@
 {
   "version": "6.2.0",
-  "model": "anthropic/claude-opus-4.6",
+  "model": "anthropic/claude-sonnet-4.6",
   "status": "online",
   "online": true,
   "started_at": "2026-02-16T20:01:30.078591+00:00",
@@ -10,12 +10,12 @@
   "uptime_hours": 48,
   "budget": {
     "total": 2300.0,
-    "spent": 1698.0,
-    "remaining": 602.0,
+    "spent": 1743.0,
+    "remaining": 557.0,
     "currency": "USD"
   },
   "smoke_tests": 131,
-  "tools_count": 52,
+  "tools_count": 50,
   "recent_activity": [
     {
       "icon": "\u2705",
@@ -459,7 +459,12 @@
     }
   ],
   "last_updated": "2026-02-18T20:04:23Z",
-  "updated_at": "2026-02-18T20:04:23Z",
+  "updated_at": "2026-02-18T21:13:00Z",
   "tests_count": 131,
-  "born": "2026-02-16T20:41:00Z"
+  "born": "2026-02-16T20:41:00Z",
+  "stats": {
+    "evolution_cycles": 32,
+    "tools_count": 50,
+    "tests_count": 131
+  }
 }
